@@ -7,3 +7,4 @@
 *.mp3 filter=lfs diff=lfs merge=lfs
 *.mat filter=lfs diff=lfs merge=lfs
 *.npy filter=lfs diff=lfs merge=lfs
+*.6B.50d.txt filter=lfs diff=lfs merge=lfs
