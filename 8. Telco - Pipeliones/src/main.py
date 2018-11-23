@@ -1,5 +1,6 @@
 from sklearn.pipeline import make_pipeline, make_union
 from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.preprocessing import StandardScaler
 
 import pandas as pd
 import numpy as np
@@ -13,7 +14,7 @@ from src import utilities
 desired_width = 80
 pd.set_option('display.width', desired_width)
 np.set_printoptions(linewidth=desired_width)
-np.set_printoptions(threshold=np.nan)
+np.set_printoptions(threshold=100)
 pd.set_option('display.max_colwidth', -1)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.max_rows', 500)
@@ -38,7 +39,12 @@ pipeline = make_pipeline(
             PandasSelector(dtype=np.object),
             utilities.one_hot_encoder(),
         ),
+        make_pipeline(
+            PandasSelector(columns=['monthly_charges', 'tenure', 'total_charges']),
+            StandardScaler(),
+        ),
     ),
+    Viewer(),
     model
 )
 

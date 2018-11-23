@@ -56,7 +56,8 @@ class Viewer(BaseEstimator, TransformerMixin):
 
     @staticmethod
     def transform(x: pd.DataFrame):
-        print(x.info())
-        print(x.head())
+        print(x)
+        # print(x.info())
+        # print(x.head())
         # print(x.head())
         return x
