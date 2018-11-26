@@ -15,3 +15,12 @@ class PartnerAndDependent(BaseEstimator, TransformerMixin):
         x.loc[~(x['partner'] | x['dependents']), column] = 'Neither'
 
         return x
+
+
+class ChangesChange(BaseEstimator, TransformerMixin):
+    def fit(self, x: pd.DataFrame, y: pd.DataFrame):
+        return self
+
+    @staticmethod
+    def transform(x: pd.DataFrame) -> pd.DataFrame:
+        return pd.DataFrame(x['total_charges'] - x['monthly_charges'] * x['tenure'])

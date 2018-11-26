@@ -1,13 +1,15 @@
-from sklearn.pipeline import make_pipeline, make_union
-from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.preprocessing import StandardScaler
-
 import pandas as pd
 import numpy as np
 
+import lightgbm as lgb
+
+from sklearn.pipeline import make_pipeline, make_union, Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+
 from src.transformers import PandasSelector, Viewer
 from src.preprocessing import DataCleaner, FillEmpty
-from src.feature_engineering import PartnerAndDependent
+from src.feature_engineering import PartnerAndDependent, ChangesChange
 from src import utilities
 
 # Setup
@@ -24,9 +26,12 @@ data = pd.read_csv('../input/WA_Fn-UseC_-Telco-Customer-Churn.csv')
 data.columns = [utilities.convert(x) for x in data.columns]
 print("Data columns: ", data.columns)
 
-model = GradientBoostingClassifier()
+data_y = data['churn'].replace({'Yes': 1, 'No': 0})
+data_x = data.drop('churn', axis=1).copy()
 
-pipeline = make_pipeline(
+train_x, test_x, train_y, test_y = train_test_split(data_x, data_y)
+
+preprocessing = make_pipeline(
     DataCleaner(),
     FillEmpty(),
     make_union(
@@ -43,15 +48,24 @@ pipeline = make_pipeline(
             PandasSelector(columns=['monthly_charges', 'tenure', 'total_charges']),
             StandardScaler(),
         ),
+        make_pipeline(
+            PandasSelector(columns=['monthly_charges', 'tenure', 'total_charges']),
+            ChangesChange(),
+            StandardScaler()
+        )
     ),
-    Viewer(),
-    model
+    # Viewer(),
 )
 
-train_y = data['churn'].replace({'Yes': 1, 'No': 0})
-train_x = data.drop('churn', axis=1).copy()
+model = lgb.LGBMClassifier()
 
-pipeline.fit(train_x, train_y)
+modelling = Pipeline(steps=[
+    ('preprocessing', preprocessing),
+    ('model', model),
+    ]
+)
+
+modelling.fit(train_x, train_y)
 
 print("Done fitting")
-print("Scoring: ", pipeline.score(train_x, train_y))
+print("Scoring: ", modelling.score(train_x, train_y))

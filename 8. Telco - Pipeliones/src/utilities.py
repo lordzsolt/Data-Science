@@ -2,6 +2,7 @@ import re
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import FunctionTransformer
 from sklearn.feature_extraction import DictVectorizer
+import lightgbm as lgb
 
 
 def convert(name: str) -> str:
@@ -23,3 +24,7 @@ def one_hot_encoder():
         FunctionTransformer(to_records, validate=False),
         DictVectorizer()
     )
+
+
+def lgb_feature_importance(model: lgb.LGBMModel, columns):
+    return sorted(zip(model.feature_importances_, columns), reverse=True)
