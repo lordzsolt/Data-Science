@@ -1,0 +1,2470 @@
+
+BVI COMPANY NUMBER: 1655704
+
+ 
+
+TERRITORY OF THE BRITISH VIRGIN ISLANDS
+THE BVI BUSINESS COMPANIES ACT, 2004
+
+MEMORANDUM AND ARTICLES OF ASSOCIATION
+OF
+EUROPEAN METALS HOLDINGS LIMITED
+
+A COMPANY LIMITED BY SHARES
+
+Incorporated on the 23 June, 2011
+
+Amended and Restated on 23 April, 2012
+Amended and Restated on 28 January, 2014
+Amended and Restated on 20 February, 2014
+
+Amended and Restated on 16 November, 2015
+
+INCORPORATED IN THE BRITISH VIRGIN ISLANDS
+[ Left blank intentionally ]
+1.1
+
+TERRITORY OF THE BRITISH VIRGIN ISLANDS
+THE BVI BUSINESS COMPANIES ACT, 2004
+
+MEMORANDUM OF ASSOCIATION
+OF
+EUROPEAN METALS HOLDINGS LIMITED
+A COMPANY LIMITED BY SHARES
+
+DEFINITIONS AND INTERPRETATION
+
+In this Memorandum of Association and the Articles of Association of the Company, if not
+inconsistent with the subject or context:
+
+"Act" means the BVI Business Companies. Act, 2004 (No. 16 of 2004), as amended from time to
+time and includes the regulations made under the Act;
+
+"Admission" the admission. to trading of the Shares on the AIM Market of the London Stock
+Exchange plc;
+
+"Articles" means the Articles of Association of the Company;
+
+"ASX" means ASX Limited (ACN 008 624 691) or the financial market operated by it (as the
+context requires);
+
+"Chairman of the Board" has the meaning specified in Regulation 12;
+
+‘““CHESS” means the Clearing House Electronic Sub-registry System, the computerised settlement
+system in Australia operated by ASX Settlement Pty Limited (a subsidiary of the ASX) which
+facilitates the transfer of title to shares in uncertificated form;
+
+"clear days" in relation to the period of notice means that period excluding the day when the
+notice is given or deemed to be given and the day for which it is given or on which it is to take
+effect;
+
+"Conflicted Director'' means (in relation to a Relevant Situation) a director who has made a
+submission for authorisation in respect of that Relevant Situation;
+
+““CREST” means the computerised settlement system (as defined in the Securities Regulations) in
+the UK operated by Euroclear UK & Ireland Limited which facilitates the transfer of title to shares
+in uncertificated form;
+
+"Disclosure and Transparency Rules" has the meaning the Disclosure and Transparency Rules
+of the UK Listing Authority as amended from time to time;
+
+"Distribution" in relation to a distribution by the Company to a Shareholder means the direct or
+indirect transfer of an asset, other than Shares, to or for the benefit of the Shareholder, or the
+incurring of a debt to or for the benefit of a Shareholder, in relation to Shares held by a
+Shareholder, and whether by means of the purchase of an asset, the purchase, redemption or other
+acquisition of Shares, a transfer of indebtedness or otherwise, and includes a dividend;
+"Listing Rules" means the listing rules of the Stock Exchanges (as the context requires) which are
+applicable while the Company is admitted to the official list of and / or markets operated by the
+Stock Exchanges, each as amended or replaced from time to time;
+
+"Memorandum" means this Memorandum of Association of the Company;
+"Ordinary Resolution" means either:
+
+(a) a resolution approved at a duly convened and constituted meeting of the Shareholders of
+the Company by the affirmative vote of a majority of 50 percent or more of the votes of
+the Shares entitled to vote thereon which were present in person, or by proxy, at the
+meeting and were voted; or
+
+(b) a resolution consented to in writing by a majority of 50 percent or more of the votes of
+Shares entitled to vote thereon;
+
+"Person" includes individuals, corporations, trusts, the estates of deceased individuals,
+partnerships and unincorporated associations of persons;
+
+"Recognised Clearing House" shall have the meaning ascribed by section 285 of the UK
+Financial Services and Markets Act 2000;
+
+"Recognised Investment Exchange" shall have the meaning ascribed by section 285 of the UK
+Financial Services and Markets Act 2000;
+
+"Recognised Person'' means a Recognised Clearing House or.a nominee of a recognised house or
+of a Recognised Investment Exchange;
+
+"Relevant Situation" means a matter or situation in which a director has, or can have, a direct or
+indirect interest that conflicts, or possibly may conflict, with the interests of the Company
+(including, without limitation, in relation to the exploitation’ of any property, information or
+opportunity, whether or not the Company could take advantage of it);
+
+"Relevant System" means a relevant computer based system and procedures which enable title to
+units of a security to be evidenced and transferred without a written instrument of transfer,
+including CREST and CHESS;
+
+"Registrar'' means the Registrar of Corporate Affairs appointed under section 229 of the Act;
+"Resolution of Directors'' means either:
+
+(a) a resolution approved at a duly convened and constituted meeting of directors of the
+Company by the affirmative vote of the majority of the directors (or in the case of an
+equality of votes, the casting vote of the Chairman) present at the meeting who voted
+except that where a director is given more than one vote, he shall be counted by the
+number of votes he casts for the purpose of establishing a majority; or
+
+(b) a resolution consented to in writing or by telex, telegram, cable or other written electronic
+communication by the majority of the directors of the Company. A written resolution
+consented to in such manner may consist of several documents including written electronic
+communication, in like form each signed or assented to by one or more directors;
+
+"Resolution of Shareholders" means either:
+
+(a) a resolution approved at a duly convened and constituted meeting of the Shareholders of
+the Company by the affirmative vote of a majority of the votes of the Shares entitled to
+vote thereon which were present at the meeting and were voted; or
+
+(b) a resolution consented to in writing or by telex, telegram, cable or other written electronic
+communication by a majority of the votes of Shares entitled to vote thereon;
+
+2
+1.2
+
+1.3
+
+"Seal" means any seal which has been duly adopted as the common seal of the Company;
+
+"Securities'' means Shares and debt obligations of every kind of the Company, and including
+without limitation options, warrants and rights to acquire Shares or debt obligations;
+
+"Securities Regulations" means the Uncertificated Securities Regulations 2001 (SI 2001/3755) in
+the UK;
+
+"Share" means a share issued or to be issued by the Company;
+
+"Shareholder" means a Person whose name is entered in the register of members as the holder of
+one or more Shares or fractional Shares;
+
+"Special Resolution" means either:
+
+(a) a resolution approved at a duly convened and constituted meeting of the Shareholders of
+the Company by the affirmative vote of a majority of 75 percent or more of the votes of
+the Shares entitled to vote thereon which were present in person, or by proxy, at the
+meeting and were voted; or
+
+(b) a resolution consented to in writing by a majority of 75 percent or more of the votes of
+Shares entitled to vote thereon;
+
+"Stock Exchanges" means the ASX and/or AIM, a market operated by London Stock Exchange
+Ple or any successor body carrying on its functions (as the context requires);
+
+"Treasury Share'' means.a Share that was previously issued-but was repurchased, redeemed or
+otherwise acquired by the Company and not cancelled;
+
+"UK CA 2006" means the United Kingdom Companies Act 2006 including any modification,
+extension, re-enactment or renewal thereof and any regulations made thereunder;
+
+"UK Companies Act’ means the United Kingdom Companies Act 1985 including any
+modification, extension, re-enactment or renewal thereof and any regulations made thereunder;
+
+"United Kingdom" or 'UK" means Great Britain and Northern Ireland; and
+
+"written" or any term of like import includes information generated, sent, received or stored by
+electronic, electrical, digital, magnetic, optical, electromagnetic, biometric or photonic means,
+including electronic data interchange, electronic mail, telegram, telex or telecopy, and ''in writing"
+
+shall be construed accordingly.
+
+In the Memorandum and the Articles, unless the context otherwise requires a reference to:
+
+(a) a "Regulation" is a reference to a regulation of the Articles;
+(b) a ''Clause" is a reference to a clause of the Memorandum;
+(c) voting by Shareholders is a reference to the casting of the votes attached to the Shares held
+
+by the Shareholder voting;
+
+(d) the Act, the Memorandum or the Articles is a reference to the Act or those documents as
+amended or, in the case of the Act, any re-enactment thereof and any subsidiary legislation
+made thereunder; and
+
+(e) the singular includes the plural and vice versa.
+
+Any words or expressions defined in the Act unless the context otherwise requires bear the same
+meaning in the Memorandum and the Articles unless otherwise defined herein.
+1.4
+
+4.1
+
+4.2
+
+4.3
+
+4.4
+
+4.5
+
+4.6
+
+5.1
+
+5.2
+
+6.1
+
+6.2
+
+Headings are inserted for convenience only and shall be disregarded in interpreting the Memorandum
+and the Articles.
+
+NAME
+
+The name of the Company is EUROPEAN METALS HOLDINGS LIMITED.
+STATUS
+
+The Company is a company limited by Shares.
+
+REGISTERED OFFICE AND REGISTERED AGENT
+
+The first registered office of the Company is at Palm Grove House, P.O. Box 438, Road Town,
+Tortola, British Virgin Islands, the office of the first registered agent.
+
+The current registered office of the Company is at Woodbourne Hall, P.O. Box 3162, Road Town,
+Tortola, British Virgin Islands, the office of the current registered agent.
+
+The first registered agent of the Company is Equity Trust (BVI) Limited of Palm Grove House, P.O.
+Box 438, Road Town, Tortola, British Virgin Islands
+
+The current registered agent of the Company is Rawlinson & Hunter Limited of Woodbourne Hall,
+PO Box 3162, Road Town, Tortola VG 1 110, British Virgin Islands.
+
+The Company may by Ordinary Resolution or-by Resolution of Directors change the location of
+its registered office or change its registered agent.
+
+Any change of registered office or registered agent will take effect on the registration by the Registrar
+of a notice of the change filed by the existing registered agent or a legal practitioner in the British
+Virgin Islands acting on behalf of the Company.
+
+CAPACITY AND POWERS
+
+Subject to the Act, the Listing Rules and any other British Virgin Islands legislation, the Company
+has, irrespective of corporate benefit:
+
+(a) full capacity to carry on or undertake any business or activity, do any act or enter into any
+transaction; and
+
+(b) for the purposes of paragraph (a), full rights, powers and privileges.
+
+For the purposes of section 9(4) of the Act, there are no limitations on the business that the Company
+may carry on.
+
+NUMBER AND CLASSES OF SHARES
+
+The Company is authorised to issue an unlimited number of no par value Shares of the following
+classes:
+
+(a) ordinary shares of no par value (the "Shares");
+
+(b) 5,000,000 class A performance shares (the "Class A Shares");
+
+(c) 5,000,000 class B performance shares (the "Class B Shares"),
+
+each with the designations, powers preferences rights and restrictions set out below.
+
+The Company may issue fractional Shares and a fractional Share shall have the corresponding
+fractional rights, obligations and liabilities of a whole Share of the same class or series of Shares.
+
+4
+6.3
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+Shares may be issued in one or more series of Shares as the directors may by Resolution of
+Directors determine from time to time.
+
+RIGHTS OF SHARES
+Each Share confers upon the Shareholder:
+
+(a) the right to one vote at a meeting of the Shareholders or on any Resolution of
+Shareholders;
+
+(b) the right to an equal share in any dividend paid by the Company; and
+
+(c) the right to an equal share in the distribution of the surplus assets of the Company on its
+liquidation.
+
+Each Class A Share in the Company confers upon the Shareholder:
+(a) the right to receive notices of general meetings and financial reports and accounts of the
+Company that are circulated to holders of the Shares and to holders of depositary interests
+
+from a Relevant System issued in respect of fully paid Shares (“DI Holders’’);
+
+(b) no right to vote at a meeting of the Shareholders of the Company or on any Resolution of
+Shareholders;
+
+(c) no right to any dividend paid by the Company;
+
+(d) the right to an equal share in the distribution of the surplus assets of the Company on its
+liquidation only to the extent of $0.000001 per Class A Share;
+
+(e) no right to participate in new issues of Shares offered to Shareholders or DI Holders such
+as bonus issues and entitlement issues; and
+
+(f) the right to convert each Class A Share into, such number of Shares in
+accordance with the terms and conditions applicable to the conversion as set out in the
+Resolution of Directors approving the issue of such Class A Shares.
+
+Each Class B Share in the Company confers upon the Shareholder:
+
+(a) the right to receive notices of general meetings and financial reports and accounts of the
+Company that are circulated to holders of the Shares and to DI Holders;
+
+(b) no right to vote at a meeting of the Shareholders of the Company or on any Resolution of
+Shareholders;
+
+(c) no right to any dividend paid by the Company;
+
+(d) the right to an equal share in the distribution of the surplus assets of the Company on its
+liquidation only to the extent of $0.000001 per Class B Share;
+
+(e) no right to participate in new issues of Shares offered Shareholders or DI Holders such as
+bonus issues and entitlement issues; and
+
+(f) the right to convert each Class B Share into such number of Shares in accordance with the
+terms and conditions applicable to the conversion as set out in the Resolution of Directors
+approving the issue of such Class B Shares.
+
+Subject to the Act and the Listing Rules:
+
+(a) the Company may by Resolution of Directors redeem, purchase or otherwise acquire all or
+any of the Shares subject to Regulation 3 of the Articles; and
+
+5
+10
+
+10.1
+
+10.2
+
+11
+
+12
+
+12.1
+
+(b) the directors may by Resolution of Directors, redeem, purchase or otherwise acquire all or
+any of the Class A Shares or Class B Shares in accordance with the rights of redemption
+attributed to the Company at the time of issue of such Class A Shares or Class B Shares as
+set out in the Resolution of Directors approving the issue of such Class A Shares or Class
+B Shares as the context requires.
+
+VARIATION OF RIGHTS
+
+If at any time the Shares are divided into different classes, the rights attached to any class (unless
+otherwise provided by the terms of issue of the shares of that class) may only be varied or
+abrogated, whether or not the Company is in liquidation, with the consent in writing of holders of at
+least 75 per cent. of the issued shares of that class or with the sanction of a resolution passed by at
+least a 75 per cent majority of the holders of shares in that class present in person or by proxy at a
+separate meeting of the holders of the shares of that class.
+
+RIGHTS NOT VARIED BY THE ISSUE OF SHARES PARI PASSU
+
+The rights conferred upon the holders of the Shares of any class shall not, unless otherwise
+expressly provided by the terms of issue of the Shares of that class, be deemed to be varied by the
+creation or issue of further Shares ranking pari passu therewith.
+
+REGISTERED SHARES
+
+The Company shall issue registered Shares only.
+
+The Company is not authorised to issue bearer-shares, convert registered Shares to bearer shares or
+exchange registered Shares-for bearer shares.
+
+TRANSFER OF SHARES
+
+Subject to the provisions of Sub-Regulations 6.2 and 6.3 of the Articles, the Company shall, on
+receipt of an instrument of transfer complying with Sub-Regulation 6.1 of the Articles, enter the
+name of the transferee of a Share in the register of members unless the directors resolve to refuse or
+
+delay the registration of the transfer for reasons that shall be specified in a Resolution of Directors.
+
+The directors may not resolve torefuse or delay the transfer of a Share unless the Shareholder has
+failed to pay an amount due in respect of the Share.
+
+No Shareholder may transfer any Class A Share or any Class B Share (save for a transfer to the
+Company pursuant to any permitted redemption, purchase or acquisition by the Company).
+
+AMENDMENT OF THE MEMORANDUM AND THE ARTICLES
+Subject to Clause 8, the Company may amend the Memorandum or the Articles:
+(a) by Special Resolution; or
+
+(b) if the amendment is required in connection with Admission, by Resolution of Directors,
+save in respect of any amendment:
+
+(i) to restrict the rights or powers of the Shareholders to amend the Memorandum or
+the Articles;
+(i1) to change the percentage of Shareholders required to pass a Special Resolution to
+
+amend the Memorandum or the Articles;
+
+(ili) in circumstances where the Memorandum or the Articles cannot be amended by
+the Shareholders; or
+
+(iv) to Clauses 7, 8, 9 or this Clause 12.
+6
+12.2 Any amendment of the Memorandum or the Articles will take effect on the registration by the
+Registrar of a notice of amendment, or restated Memorandum and Articles, filed by the registered
+agent.
+
+We, Equity Trust (BVI) Limited, of Palm Grove House, P.O. Box 438, Road Town, Tortola,
+British Virgin Islands for the purpose of incorporating a BVI Business Company under the laws of
+the British Virgin Islands hereby sign this Memorandum of Association the 23™ day of June 2011:
+
+Incorporator
+
+  
+ 
+
+porised Signatory
+quity Trust (BVI) Limited
+[ Left blank intentionally ]
+1.1
+
+1.2
+
+1.3
+
+2.1
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+TERRITORY OF THE BRITISH VIRGIN ISLANDS
+THE BVI BUSINESS COMPANIES ACT, 2004
+
+ARTICLES OF ASSOCIATION
+OF
+EUROPEAN METALS HOLDINGS LIMITED
+
+A COMPANY LIMITED BY SHARES
+
+REGISTERED SHARES
+
+Every Shareholder is entitled, on request, to a certificate signed by a director or officer of the
+Company or any other person authorised by Resolution of Directors, or under the Seal specifying the
+number of Shares held by him and the signature of the director, officer or authorised person and the
+Seal may be facsimiles.
+
+Any Shareholder receiving a certificate-shall indemnify and hold the Company and its directors
+and officers harmless from any loss or liability which it or they may incur by reason of any wrongful
+or fraudulent use or representation made by any person by virtue of the possession thereof. If a
+certificate for Shares is worn out or lost it may be renewed on production of the worn out certificate or
+on satisfactory proof of its loss together with such indemnity as may be required by Resolution of
+Directors.
+
+If several Persons are registered as joint holders of any Shares, any one of such Persons may give
+an effectual receipt for any Distribution.
+
+SHARES
+Section 46 of the Act (Pre-emptive rights) does not apply to the Company.
+
+Prior to Admission, Shares and other Securities may be issued at such times, to such Persons, for
+such consideration and on such terms as the directors may by Resolution of Directors determine.
+
+Following Admission, and subject to the Act and the Listing Rules, the directors shall be authorised
+within any one period of twelve months or the period between consecutive annual general meetings
+to allot any further number of Shares on such terms as they shall in their discretion determine up to
+such maximum number as representing 50 per cent of the number of Shares as was in issue at the
+commencement of that period and they shall be authorised to allow any further number of Shares
+on such terms as they shall in their discretion determine but subject to the passing of a Special
+Resolution.
+
+In so far as the provision of Sub-Regulation 2.2 apply, such provisions shall not apply to the
+allotment of any Shares for a consideration other than cash, or to the allotment of any Shares to an
+employee share scheme.
+
+Subject to the Act and the Listing Rules, Shares shall be at the disposal of the directors and (save
+as otherwise directed by these Articles or by Special Resolution) they may allot, grant options or
+watrants over or otherwise dispose of them to such persons at such times and generally on such
+terms and conditions as they think proper.
+2.6
+
+2.7
+
+2.8
+
+2.9
+
+2.10
+
+2.11
+
+2.12
+
+2.13
+
+2.14
+
+A Share may be issued for consideration in any form, including money, a promissory note, or
+other written obligation to contribute money or property, real property, personal property (including
+goodwill and know-how), services rendered or a contract for future services.
+
+No Shares may be issued for a consideration other than money, unless a Resolution of Directors has
+been passed stating:
+
+(a) the amount to be credited for the issue of the Shares;
+
+(b) the determination of the directors of the reasonable present cash value of the non-money
+consideration for the issue; and
+
+(c) that, in the opinion of the directors, the present cash value of the non-money consideration
+for the issue is not less than the amount to be credited for the issue of the Shares.
+
+The consideration paid for any Share, whether a par value Share or a no par value Share, shall not
+be treated as a liability or debt of the Company for the purposes of:
+
+(a) the solvency test in Regulations 3 and 18; and
+(b) sections 197 and 209 of the Act.
+
+The Company shall keep a register (the “‘register of members’’) containing:
+
+(a) the names and addresses-of the Persons who hold Shares;
+
+(b) the number of each.class and series of Shares held by each Shareholder;
+
+(c) the date on which the name of each Shareholder was entered in the register of members;
+and
+
+(d) the date on which any Person ceased to be a Shareholder.
+
+The register of members may be in any such form as the directors may approve, but if it is in
+magnetic, electronic or other data storage form, the Company must be able to produce legible
+evidence of its contents. Until the directors otherwise determine, the magnetic, electronic or other
+data storage form shall be the original.register of members.
+
+A Share is deemed to be issued when the name of the Shareholder is entered in the register of
+members.
+
+Nothing in these Articles shall require title to any shares or other securities of the Company to be
+evidenced by a certificate if the Act and the Listing Rules permit otherwise.
+
+Subject to the Act and the Listing Rules, the Board without further consultation with the holders of
+any Shares or securities of the Company may resolve that any class or series of Shares or other
+securities of the Company from time to time in issue or to be issued (including shares in issue at the
+date of the adoption of these Articles) may be issued, held, registered, converted to, transferred or
+otherwise dealt with in uncertificated form in accordance with the Securities Regulations and
+practices instituted by the operator of the Relevant System and no provision of these Articles will
+apply to any uncertificated share or other securities in uncertificated form or the transfer of title to
+any such shares or other securities by means of a Relevant System or any provision of the Securities
+Regulations.
+
+Conversion of Shares held in certificated form into Shares held in uncertificated form, and vice versa,
+may be made in such manner as the Board may, in its absolute discretion, thinks fit (subject always
+to the Securities Regulations and the requirements of the Relevant System concerned). The
+Company shall enter on the register of members the number of Shares held by each Shareholder in
+uncertificated from and in certificated form and shall maintain the register of members in each case
+as is required by the Securities Regulations and the Relevant System concerned. Notwithstanding
+
+3
+2.15
+
+2.16
+
+2.17
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+4.1
+
+any provision of these Articles, a class or series comprising both certificated Shares and
+uncertificated Shares or as a result of any provision of these Articles or the Securities Regulations
+which apply on in respect of the certificated or uncertificated Shares.
+
+If a share certificate for certificated Shares is defaced, worn out, lost or destroyed it may be
+replaced without fee but on such terms (if any) as to evidence and indemnity and to payment of any
+exceptional out-of-pocket expenses of the Company in investigating such evidence and preparing
+such indemnity as the Board may think fit and, in case of defacement or wearing out, on delivery up
+of the old certificate to the Company.
+
+All forms of certificate for share or loan capital or other securities of the Company (other than
+letters of allotment, scrip certificates and other like documents) shall be issued under the Seal or in
+such other manner as the Board may authorise. The Board may by Resolution of Directors
+determine, either generally or in any particular case or cases, that any signatures on any such
+certificate need not be autographic but may be affixed to such certificate by some mechanical or
+electronic means or may be printed thereon or that such certificate need not be signed by any
+person.
+
+Any Shareholder receiving a share certificate for certificated Shares shall indemnify and hold
+the Company and its Directors and officers harmless from any loss or liability which it or they may
+incur by reason by virtue of the possession thereof.
+
+REDEMPTION OF SHARES AND TREASURY SHARES
+
+The Company may purchase, redeem or otherwise acquire and hold its own Shares save that the
+Company may not purchase, redeem or otherwise acquire its own Shares without the consent of
+Shareholders whose Shares-are to be purchased, redeemed or otherwise acquired unless the
+Company is permitted by the Act, the Listing Rules or any other provision in the Memorandum or
+Articles to purchase, redeem,or otherwise acquire the Shares without their consent.
+
+The Company may only offer to purchase, redeem or otherwise acquire Shares if the Resolution
+of Directors authorising the purchase, redemption or other acquisition contains a statement that the
+directors are satisfied, on reasonable grounds, that immediately after the acquisition the value of the
+Company’s assets will exceed its liabilities and the Company will be able to pay its debts as they fall
+due.
+
+Sections 60 (Process for acquisition of own Shares), 61 (Offer to one or more shareholders) and
+62 (Shares redeemed otherwise than at the option of company) of the Act shall not apply to the
+Company.
+
+Shares that the Company purchases, redeems or otherwise acquires pursuant to this Regulation may
+be cancelled or held as Treasury Shares except to the extent that such Shares are 50 percent or more
+of the issued Shares in which case they shall be cancelled but they shall be available for reissue.
+
+All rights and obligations attaching to a Treasury Share are suspended and shall not be exercised by
+the Company while it holds the Share as a Treasury Share.
+
+Treasury Shares may be transferred by the Company on such terms and conditions (not
+otherwise inconsistent with the Memorandum and the Articles) as the Company may by Resolution
+of Directors determine.
+
+Where Shares are held by another body corporate of which the Company holds, directly or
+indirectly, Shares having more than 50 percent of the votes in the election of directors of the other
+body corporate, all rights and obligations attaching to the Shares held by the other body corporate
+are suspended and shall not be exercised by the other body corporate.
+
+MORTGAGES AND CHARGES OF SHARES
+
+Shareholders may mortgage or charge their Shares.
+4.2
+
+4.3
+
+4.4
+
+5.1
+
+5.2
+
+5.3
+
+5.4
+
+5.5
+
+6.1
+
+There shall be entered in the register of members at the written request of the Shareholder:
+
+(a) a statement that the Shares held by him are mortgaged or charged;
+(b) the name of the mortgagee or chargee; and
+(c) the date on which the particulars specified in subparagraphs (a) and (b) are entered in the
+
+register of members.
+
+Where particulars of a mortgage or charge are entered in the register of members, such particulars
+may be cancelled:
+
+(a) with the written consent of the named mortgagee or chargee or anyone authorised to act on
+his behalf; or
+
+(b) upon evidence satisfactory to the directors of the discharge of the liability secured by the
+mortgage or charge and the issue of such indemnities as the directors shall consider
+necessary or desirable.
+
+Whilst particulars of a mortgage or charge over Shares are entered in the register of members pursuant
+to this Regulation:
+
+(a) no transfer of any Share the subject of those particulars shall be effected;
+
+(b) the Company may not purchase, redeem or otherwise acquire any such Share; and
+(c) no replacement certificate shall be issued in respect of such Shares,
+
+(d) without the written consent of the named mortgagee or chargee.
+
+FORFEITURE
+
+Shares whose issue price are not fully paid on issue are subject to the forfeiture provisions set forth in
+this Regulation and for this purpose Shares issued for a promissory note, other written obligation to
+contribute money or property or a contract for future services are deemed to be not fully paid.
+
+A written notice of call specifying the date for payment,to be made shall be served on the Shareholder
+who defaults in making payment in respect of the Shares.
+
+The written notice of call referred to in Sub-Regulation 5.2 shall name a further date not earlier than
+the expiration of 14 days from the date of service of the notice on or before which the payment
+required by the notice is to be made and shall contain a statement that in the event of non-payment
+at or before the time named in the notice the Shares, or any of them, in respect of which payment is
+not made will be liable to be forfeited.
+
+Where a written notice of call has been issued pursuant to Sub-Regulation 5.3 and the requirements of
+the notice have not been complied with, the directors may, at any time before tender of payment,
+forfeit and cancel the Shares to which the notice relates.
+
+The Company is under no obligation to refund any moneys to a Shareholder whose Shares have
+been cancelled pursuant to Sub-Regulation 5.4 and that Shareholder shall be discharged from any
+further obligation to the Company.
+
+TRANSFER OF SHARES
+Subject to any limitations in the Memorandum, certificated Shares may be transferred by a
+
+written instrument of transfer signed by the transferor and containing the name and address of the
+transferee, which shall be sent to the Company for registration.
+6.2
+
+6.3
+
+6.4
+
+6.5
+
+6.6
+
+6.7
+
+6.8
+
+6.9
+
+6.10
+
+In the case of uncertificated Shares, a Shareholder shall be entitled to transfer his Shares by means
+of a Relevant System and the operator of the Relevant System shall act as agent of the Shareholders
+for the purposes of the transfer of Shares. In addition to the foregoing, a transferor of uncertificated
+Shares is effective only if a record of the transfer evidencing the transferor’s consent is available
+and the statutory particulars in respect of the transferee are entered in the register of members.
+
+The transferor of any Shares shall remain the holder of those Shares until the name of the transferee
+is entered in the register as the holder of those Shares.
+
+The register of members may be closed at such times and for such periods as the Board may from
+time to time determine, not exceeding in aggregate thirty days in each year, upon notice being given
+by advertisement in a leading daily newspaper and in such other newspaper (if any) as may be
+required by the Act and the practice of the Stock Exchanges (as applicable).
+
+The Board may decline to register a transfer of any Share to a person known to be a minor,
+bankrupt or person who is mentally disordered or a patient for the purpose of any statute relating to
+mental health.
+
+The Board may also decline to register any transfer of Shares unless:-
+
+(a) any written instrument of transfer, duly stamped (if so required), is lodged within the
+Company at the registered office or such other place as the Board may appoint accompanied
+by the certificate for the Shares to which it relates (except in the case of a transfer by a
+recognized person ora holder of such Shares in respect of whom the Company is not
+required by law to deliver_a certificate and to whom a certificate has not been issued in
+respect of such Shares);
+
+(b) any instrument of transfer is in respect of only one class or series of Share; and
+
+(c) in the case of a transfer to joint holders, the number of joint holders to whom the Share is
+to be transferred does not exceed four.
+
+The Company may retain an instrument of transfer which is registered but a transfer which the
+Directors refuse to register shall (except in the case of known or suspected fraud) be returned to the
+person lodging it when the notice of refusal is given.
+
+If the Board declines to register a transfer it shall, within two months or such other period (if any) as
+may be prescribed by the Act, send to the transferee notice of the refusal.
+
+No fee shall be charged by the Company for registering any transfer, probate, letters of
+administration, certificate of death or marriage, power of attorney, distringas or stop notice, order of
+court or other instrument relating to or affecting the title of any Share, or otherwise making any
+entry in the Register relating to any Share.
+
+The executor or administrator of a deceased Shareholder, the guardian of an incompetent member or
+the trustee of a bankrupt Shareholder shall be the only person recognised by the Company as having
+any title to his Share but they shall not be entitled to exercise any rights as a Shareholder of the
+Company until they have proceeded as set forth in the next following three Regulations.
+
+The production to the Company of any document which is evidence of probate of the will, or letters
+of administration of the estate, or confirmation as executor, of a deceased Shareholder or of the
+appointment of a guardian of any incompetent Shareholder or the trustee of a bankrupt Shareholder
+shall be accepted by the Company even if the deceased, incompetent or bankrupt Shareholder is
+domiciled outside the British Virgin Islands if the document evidencing the grant of probate or
+letters of administration, confirmation as executor, appointment as guardian or trustee in
+bankruptcy is issued by a foreign court which had competent jurisdiction in the matter. For the
+purpose of establishing whether or not a foreign court had competent jurisdiction in such a matter
+the Directors may obtain appropriate legal advice. The Directors may also require an indemnity to
+be given by the executor, administrator, guardian or trustee in bankruptcy.
+6.11
+
+6.12
+
+6.13
+
+6.14
+
+6.15
+
+6.16
+
+7.1
+
+7.2
+
+7.3
+
+74
+
+75
+
+7.6
+
+Any person becoming entitled by operation of law or otherwise to a Share or Shares in consequence
+of death, incompetence or bankruptcy of any Shareholder may be registered as a Shareholder upon
+such evidence being produced as may reasonably be required by the Directors and in the case of
+uncertificated Shares subject also to the facilities and requirements of the Relevant System
+concerned. An application by any such person to be registered as a Shareholder shall for all purposes
+be deemed to be a transfer of Shares of the deceased, incompetent or bankrupt Shareholder and the
+Directors shall treat it as such.
+
+Any person who has become entitled to a Share or Shares in consequence of the death, incompetence
+or bankruptcy of any Shareholder may, instead of being registered himself, request in writing that
+some person to be named by him be registered as the transferee of such Share or Shares and such
+request shall likewise be treated as if it were a transfer.
+
+What amounts to incompetence on the part of a person is a matter to be determined by the court
+having regard to all the relevant evidence and the circumstances of the case.
+
+The transfer of a Share is effective when the name of the transferee is entered on the register of
+members.
+
+If the directors of the Company are satisfied that an instrument of transfer relating to Shares has
+been signed but that the instrument has been lost or destroyed, they may resolve by Resolution of
+Directors:
+
+(a) to accept such evidence of the transfer of Shares as they consider appropriate; and
+
+(b) that the transferee’s name should be entered in the register of members notwithstanding the
+absence of the instrument of transfer.
+
+Subject to the Memorandum, the personal representative of a deceased Shareholder may transfer a
+Share even though the personal representative is not a Shareholder-at the time of the transfer.
+
+MEETINGS AND CONSENTS OF SHAREHOLDERS
+
+The board shall convene and the Company shall hold annual general meetings at least once in
+each calendar year.
+
+Subject to the requirements of the Act, and Regulation 7.1, any director of the Company may
+convene meetings of the Shareholders at such times and in such manner and places within or
+outside the British Virgin Islands as the director considers necessary or desirable.
+
+Upon the written request of Shareholders entitled to exercise 30 percent or more of the voting rights
+in respect of the matter for which the meeting is requested the directors shall convene a meeting
+of Shareholders.
+
+Subject to the Act and the Listing Rules, the director convening a meeting shall give not less than 14
+clear days notice of a meeting of Shareholders to:
+
+(a) those Shareholders whose names on the date the notice is given appear as Shareholders in
+the register of members and are entitled to vote at the meeting; and
+
+(b) the other directors.
+
+The director convening a meeting of Shareholders may fix as the record date for determining
+those Shareholders that are entitled to vote at the meeting the date notice is given of the meeting, or
+such other date as may be specified in the notice, being a date not earlier than the date of the notice.
+
+A meeting of Shareholders held in contravention of the requirement to give notice is valid if
+Shareholders holding at least 90 percent of the total voting rights on all the matters to be considered
+at the meeting have waived notice of the meeting and, for this purpose, the presence of a
+Shareholder at the meeting shall constitute waiver in relation to all the Shares which that
+Shareholder holds.
+
+7.7 The inadvertent failure of a director who convenes a meeting to give notice of a meeting to a
+Shareholder or another director, or the fact that a Shareholder or another director has not received
+notice, does not invalidate the meeting.
+
+7.8 A Shareholder may be represented at a meeting of Shareholders by a proxy who may speak and vote
+on behalf of the Shareholder.
+
+7.9 The instrument appointing a proxy shall be produced at the place designated for the meeting before
+the time for holding the meeting at which the person named in such instrument proposes to vote. The
+notice of the meeting may specify an alternative or additional place or time at which the proxy shall be
+presented.
+
+7.10 The instrument appointing a proxy shall be in substantially the following form (as required by the
+Listing Rules) or such other form as the chairman of the meeting shall accept as properly evidencing
+the wishes of the Shareholder appointing the proxy.
+
+[COMPANY NAME]
+(the “Company’’)
+
+I/We being a Shareholder of the Company HEREBY APPOINT) «0... cee eeeccsceceseeeceneeceneeceaeeceaaeceeaeeeenaee of
+bececeaceceeneceeaaeeeaeeeaeeetaeeesaes OF failiNgG HIM wie ete eee Of cect cerecetecetteeeetteeetteeeee CO be my/our
+proxy to vote for me/us at the meeting of Shareholders to be held on therday of «0.0... eee » 20...
+
+and at any adjournment thereof.
+
+(Any restrictions on voting to be inserted here.)
+
+Signed this....... Cay Of vo .eeeeeesecessecesteeeees ee:
+
+Shareholder
+
+7.11. The following applies where Shares are jointly owned:
+
+(a) if two or more persons hold Shares jointly each of them may be present in person or by
+proxy at a meeting of Shareholders and may speak as a Shareholder;
+
+(b) if only one of the joint owners is present in person or by proxy he may vote on behalf of all
+joint owners; and
+
+(c) if two or more of the joint owners are present in person or by proxy they must vote as one.
+
+7.12 A meeting of Shareholders is duly constituted if, at the commencement of the meeting, there are
+present in person or by proxy Shareholders holding not less than two Shares entitled to vote on
+resolutions of Shareholders to be considered at the meeting. A quorum may comprise a single
+Shareholder or proxy and then such person may pass a resolution of Shareholders and a certificate
+7.13
+
+7.14
+
+7.16
+
+7.20
+
+7.21
+
+signed by such person accompanied where such person be a proxy by a copy of the proxy
+instrument shall constitute a valid resolution of the Shareholder.
+
+If within two hours from the time appointed for the meeting a quorum is not present, the meeting, if
+convened upon the requisition of Shareholders, shall be dissolved; in any other case it shall stand
+adjourned to the next business day in the jurisdiction in which the meeting was to have been held at
+the same time and place or to such other time and place as the directors may determine, and if at the
+adjourned meeting there are present within one hour from the time appointed for the meeting in
+person or by proxy not less than one third of the votes of the Shares or each class or series of Shares
+entitled to vote on the matters to be considered by the meeting, those present shall constitute a
+quorum but otherwise the meeting shall be dissolved.
+
+At every meeting of Shareholders, the Chairman of the Board shall preside as chairman of the
+meeting. If there is no Chairman of the Board or if the Chairman of the Board is not present at the
+meeting, the directors of the Company present shall choose one of their number to be the chairman.
+If the Shareholders are unable to choose a chairman for any reason, then the person representing the
+greatest number of voting Shares present in person or by proxy at the meeting shall preside as
+chairman failing which the oldest individual Shareholder or representative of a Shareholder present
+shall take the chair.
+
+The chairman may, with the consent of the meeting, adjourn any meeting from time to time, and
+from place to place, but no business shall be transacted at any adjourned meeting other than the
+business left unfinished at the meeting from which the adjournment took place.
+
+At any meeting of the Shareholders the chairman is responsible for deciding in such manner as he
+considers appropriate whether any resolution proposed has been. carried or not and the result of his
+decision shall be announced.to the meeting and recorded in the. minutes of the meeting. If the
+chairman has any doubt as to the outcome of the vote on a proposed resolution, he shall cause a poll
+to be taken of all votes cast upon such resolution. If the chairman fails to take a poll then any
+Shareholder present in person or by proxy who disputes the announcement by the chairman of the
+result of any vote may immediately following such announcement demand that a poll be taken and the
+chairman shall cause a poll to.be taken. If a poll is taken at any meeting, the result shall be announced
+to the meeting and recorded in the minutes of the meeting.
+
+Subject to the specific provisions contained in this Regulation for the appointment of
+representatives of Persons other than individuals the right of any individual to speak for or represent a
+Shareholder shall be determined by the law of the jurisdiction where, and by the documents by which,
+the Person is constituted or derives its existence. In case of doubt, the directors may in good faith seek
+legal advice from any qualified person and unless and until a court of competent jurisdiction shall
+otherwise rule, the directors may rely and act upon such advice without incurring any liability to any
+Shareholder or the Company.
+
+Any Person other than an individual which is a Shareholder may by resolution of its directors or
+other governing body authorise such individual as it thinks fit to act as its representative at any
+meeting of Shareholders or of any class of Shareholders, and the individual so authorised shall be
+entitled to exercise the same rights on behalf of the Shareholder which he represents as that
+Shareholder could exercise if it were an individual.
+
+The chairman of any meeting at which a vote is cast by proxy or on behalf of any Person other than
+an individual may call for a notarially certified copy of such proxy or authority which shall be
+produced within 7 days of being so requested or the votes cast by such proxy or on behalf of such
+Person shall be disregarded.
+
+Directors of the Company may attend and speak at any meeting of Shareholders and at any
+separate meeting of the holders of any class or series of Shares.
+
+An action that may be taken by the Shareholders at a meeting may also be taken by a resolution
+consented to in writing, without the need for any notice, but if any resolution of the Shareholders is
+adopted otherwise than by the unanimous written consent of all Shareholders, a copy of such
+resolution shall forthwith be sent to all Shareholders not consenting to such resolution. The consent
+
+9
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+8.6
+
+may be in the form of counterparts, each counterpart being signed by one or more Shareholders. If
+the consent is in one or more counterparts, and the counterparts bear different dates, then the
+resolution shall take effect on the earliest date upon which Shareholders holding a sufficient number
+of votes of Shares to constitute a resolution of the Shareholders have consented to the resolution by
+signed counterparts.
+
+DIRECTORS
+
+The first directors of the Company shall be appointed by the first registered agent within 6 months of
+the date of incorporation of the Company; and thereafter, the directors shall be elected by Ordinary
+Resolution or by Resolution of Directors.
+
+No person shall be appointed as a director, alternate director, or nominated as a reserve director, of
+the Company unless he has consented in writing to be a director, alternate director or to be
+nominated as a reserve director respectively.
+
+Subject to Sub-Regulation 8.1, the minimum number of directors shall be one and there shall be
+no maximum number.
+
+Each director holds office for the term, if any, fixed by the Ordinary Resolution or the Resolution
+of Directors appointing him, or until his earlier death, resignation or removal. If no term is fixed on
+the appointment of a director, the director serves indefinitely until his earlier death, resignation or
+removal.
+
+The following provisions in relation to the retirement of directors by rotation shall apply:
+
+(a) at each annual general meeting one-third of the directors for the time being (or, if their
+number is not a multiple of three, the number nearest to but not more than one-third) shall
+retire from office by. rotation;
+
+(b) the directors to retire in every year shall be those subject to retirement by rotation who have
+been longest in office since their last re-election or appointment. As between persons who
+become or were last re-elected directors on the same day, those to retire shall (unless they
+otherwise agree among themselves) be determined: by lot. A retiring director shall be eligible
+for re-election;
+
+(c) the Company at the annual general meeting at which a director retires under any provision
+of these Articles may by Ordinary Resolution fill the office being vacated by electing
+thereto the retiring director or some other person eligible for appointment. In default, the
+retiring director shall be deemed to have been re-elected except in any of the following
+cases: (i) where at such annual general meeting it is expressly resolved not to fill such
+office or a resolution for the re-election of such director is put to the meeting and lost; (ii)
+where such director is disqualified under the Act from holding office as a director or has
+given notice in writing to the Company that he is unwilling to be re-elected; or (iii) where
+such director has attained any retiring age applicable to him as a director; and
+
+(d) the retirement shall not have effect until the conclusion of the annual general meeting
+except where a resolution is passed to elect some other person in the place of the retiring
+director or a resolution for his re-election is put to the annual general meeting and lost and
+according a retiring director who is re-elected or deemed to have been re-elected in office
+without a break.
+
+A director may be removed from office,
+
+(a) with or without cause, by Special Resolution passed at a meeting of Shareholders called for
+the purposes of removing the director or for purposes including the removal of the director;
+
+(b) a registered medical practitioner who is treating the director gives a written opinion to the
+Company stating that the person has become physically or mentally incapable of acting as
+a director and may remain so for more than three months;
+
+10
+8.7
+
+8.8
+
+8.9
+
+8.10
+
+8.11
+
+8.12
+
+8.13
+
+8.14
+
+(c) by reasons of that director’s mental health, a court make an order which wholly or partly
+prevents that person from personally exercising any powers or rights which that person
+would otherwise have; or
+
+(d) with cause, by Resolution of Directors passed at a meeting of directors called for the
+purpose of removing the director or for purposes including the removal of the director.
+
+A director may resign his office by giving written notice of his resignation to the Company and the
+resignation has effect from the date the notice is received by the Company or from such later date
+as may be specified in the notice. A director shall resign forthwith as a director if he is, or becomes,
+disqualified from acting as a director under the Act.
+
+The directors may at any time, subject to compliance with the Listing Rules, appoint any person to be
+a director either to fill a vacancy or as an addition to the existing directors. Where the directors
+appoint a person as director to fill a vacancy, the term shall not exceed the term that remained when
+the person who has ceased to be a director ceased to hold office.
+
+A vacancy in relation to directors occurs if a director dies or otherwise ceases to hold office prior to
+the expiration of his term of office.
+
+Where the Company only has one Shareholder who is an individual and that Shareholder is also the
+sole director of the Company, the sole Shareholder/director may, by instrument in writing,
+nominate a person who is not disqualified from being adirector of the Company as a reserve
+director of the Company to actin the place of the sole director in the event of his death.
+
+The nomination of a person as a reserve director.of the Company ceases to have effect if:
+
+(a) before the death of the sole Shareholder/director who nominated him
+(i) he resigns as reserve director, or
+(ii) the sole Shareholder/director revokes the nomination in writing; or
+(b) the sole Shareholder/director who nominated -him ceases to be able to be the sole
+
+Shareholder/director of the Company for any reason other than his death.
+The Company shall keep a register of directors containing:
+
+(a) the names and addresses of the persons who are directors of the Company or who have
+been nominated as reserve directors of the Company;
+
+(b) the date on which each person whose name is entered in the register was appointed as a
+director, or nominated as a reserve director, of the Company;
+
+(c) the date on which each person named as a director ceased to be a director of the Company;
+
+(d) the date on which the nomination of any person nominated as a reserve director ceased to
+have effect; and
+
+(e) such other information as may be prescribed by the Act.
+
+The register of directors may be kept in any such form as the directors may approve, but if it is in
+magnetic, electronic or other data storage form, the Company must be able to produce legible
+evidence of its contents. Until a Resolution of Directors determining otherwise is passed, the
+
+magnetic, electronic or other data storage shall be the original register of directors.
+
+The directors may, by Resolution of Directors, fix the emoluments of directors with respect to
+services to be rendered in any capacity to the Company.
+
+11
+8.15
+
+8.16
+
+8.17
+
+8.18
+
+8.19
+
+8.20
+
+8.21
+
+8.22
+
+9.1
+
+9.2
+
+The total maximum remuneration of non-executive directors is initially set by these Articles and
+subsequent variation is by Resolution of Shareholders in general meeting in accordance with these
+Articles, the Act and the Listing Rules, as applicable. The determination of non-executive directors'
+remuneration within that maximum will be made by the Board having regard to the inputs and value
+to the Company of the respective contributions by each non-executive director. The current amount
+has been set at an amount not to exceed AUD$300,000 per annum.
+
+A director is not required to hold a Share as a qualification to office.
+
+A director, by written instrument deposited at the registered office of the Company may from time to
+time appoint another director or another person who is not disqualified for appointment as a director
+under section 111 of the Act to be his alternate to:
+
+(a) exercise the appointing director's powers; and
+(b) carry out the appointing director's responsibilities,
+in relation to the taking of decisions by the directors in the absence of the appointing director.
+
+No person shall be appointed as an alternate director unless he has consented in writing to be an
+alternate director. The appointment of an alternate director does not take effect until written notice
+of the appointment has been deposited at the registered office of the Company.
+
+The appointing director may, at any time, terminate or vary the alternate's appointment. The
+termination or variation of the appointment of an alternate director does not take effect until written
+notice of the termination or variation has been deposited at the registered office of the Company,
+save that if a director shall die or cease to hold the office of director, the appointment of his
+alternate shall thereupon cease and terminate immediately without the need of notice.
+
+An alternate director hasno power to appoint an alternate, whether-of the appointing director or of
+the alternate director.
+
+An alternate director has the same rights as the appointing director in relation to any directors’ meeting
+and any written resolution of directors circulated for written consent. Unless stated otherwise in the
+notice of the appointment of the alternate, or a notice of variation of the appointment, if undue
+delay or difficulty would be occasioned by giving notice to.a director of a resolution of which his
+approval is sought in accordance with these Articles his alternate (if any) shall be entitled to signify
+approval of the same on behalf of that director. Any exercise by the alternate director of the
+appointing director's powers in relation to the taking of decisions by the directors is as effective as
+if the powers were exercised by the appointing director. An alternate director does not act as an
+agent of or for the appointing director and is liable for his own acts and omissions as an alternate
+director.
+
+The remuneration of an alternate director (if any) shall be payable out of the remuneration payable
+to the director appointing him (if any), as agreed between such alternate and the director appointing
+him.
+
+POWERS OF DIRECTORS
+
+The business and affairs of the Company shall be managed by, or under the direction or supervision of,
+the directors of the Company. The directors of the Company have all the powers necessary for
+managing, and for directing and supervising, the business and affairs of the Company. The directors
+may pay all expenses incurred preliminary to and in connection with the incorporation of the
+Company and may exercise all such powers of the Company as are not by the Act or by the
+Memorandum or the Articles required to be exercised by the Shareholders.
+
+Each director shall exercise his powers for a proper purpose and shall not act or agree to the
+Company acting in a manner that contravenes the Memorandum, the Articles or the Act. Each
+director, in exercising his powers or performing his duties, shall act honestly and in good faith in
+what the director believes to be the best interests of the Company.
+
+12
+9.3
+
+9.4
+
+9.5
+
+9.6
+
+9.7
+
+9.8
+
+10
+
+10.1
+
+10.2
+
+10.3
+
+10.4
+
+10.5
+
+10.6
+
+10.7
+
+If the Company is the wholly owned subsidiary of a holding company, a director of the Company
+may, when exercising powers or performing duties as a director, act in a manner which he believes is
+in the best interests of the holding company even though it may not be in the best interests of the
+Company.
+
+Any director which is a body corporate may appoint any individual as its duly authorised
+representative for the purpose of representing it at meetings of the directors, with respect to the
+signing of consents or otherwise.
+
+The continuing directors may act notwithstanding any vacancy in their body.
+
+The directors may by Resolution of Directors exercise all the powers of the Company to
+incur indebtedness, liabilities or obligations and to secure indebtedness, liabilities or obligations
+whether of the Company or of any third party.
+
+All cheques, promissory notes, drafts, bills of exchange and other negotiable instruments and all
+receipts for moneys paid to the Company shall be signed, drawn, accepted, endorsed or otherwise
+executed, as the case may be, in such manner as shall from time to time be determined by
+Resolution of Directors.
+
+For the purposes of Section 175 (Disposition of assets) of the Act, the directors may by Resolution
+of Directors determine that any sale, transfer, lease, exchange or other disposition is in the usual or
+regular course of the business carried on by the Company and such determination is, in the absence
+of fraud, conclusive.
+
+PROCEEDINGS OF DIRECTORS
+
+Any one director of the Company may call a meeting of the directors by sending a written notice to
+each other director.
+
+The directors of the Company or any committee thereof may meet at such times and in such manner
+and places within or outside the British Virgin Islands as the directors may determine to be
+necessary or desirable.
+
+A director is deemed to be present at a meeting of directors if he participates by telephone or
+other electronic means and all directors participating in the meeting are able to hear each other.
+
+A director shall be given not less than 3 days’ notice of meetings of directors, but a meeting of
+directors held without 3 days’ notice having been given to all directors shall be valid if all the
+directors entitled to vote at the meeting who do not attend waive notice of the meeting, and for this
+purpose the presence of a director at a meeting shall constitute waiver by that director. The
+inadvertent failure to give notice of a meeting to a director, or the fact that a director has not
+received the notice, does not invalidate the meeting.
+
+A director may by a written instrument appoint an alternate who need not be a director and the
+alternate shall be entitled to attend meetings in the absence of the director who appointed him and to
+vote or consent in place of the director until the appointment lapses or is terminated.
+
+A meeting of directors is duly constituted for all purposes if at the commencement of the meeting there
+are present in person or by alternate not less than one-half of the total number of directors, unless
+there are only 2 directors in which case the quorum is 2.
+
+If the Company has only one director the provisions herein contained for meetings of directors do
+not apply and such sole director has full power to represent and act for the Company in all matters
+as are not by the Act, the Memorandum or the Articles required to be exercised by the
+Shareholders. In lieu of minutes of a meeting the sole director shall record in writing and sign a
+note or memorandum of all matters requiring a Resolution of Directors. Such a note or
+memorandum constitutes sufficient evidence of such resolution for all purposes.
+
+13
+10.8
+
+10.9
+
+11
+
+12
+
+12.1
+
+At meetings of directors at which the Chairman of the Board is present, he shall preside as chairman of
+the meeting. If there is no Chairman of the Board or if the Chairman of the Board is not present, the
+directors present shall choose one of their number to be chairman of the meeting.
+
+An action that may be taken by the directors or a committee of directors at a meeting may also be taken
+by a Resolution of Directors or a resolution of a committee of directors consented to in writing or
+by telex, telegram, cable or other written electronic communication by a majority of the directors or
+by a majority of the members of the committee, as the case may be, without the need for any notice.
+A written resolution consented to in such manner may consist of several documents, including
+written electronic communication, in like form each signed or assented to by one or more directors.
+If the consent is in one or more counterparts, and the counterparts bear different dates, then the
+resolution shall take effect on the date upon which the last director has consented to the resolution
+by signed counterparts.
+
+COMMITTEES
+The directors may, by Resolution of Directors, designate one or more committees, each consisting of
+one or more directors, and delegate one or more of their powers, including the power to affix the
+
+Seal, to the committee.
+
+The directors have no power to delegate to a committee of directors any of the following powers:
+
+(a) to amend the Memorandum or the Articles;
+
+(b) to designate committees of directors;
+
+(c) to delegate powers toa committee of directors;
+
+(d) to appoint or remove directors;
+
+(e) to appoint or remove an agent;
+
+(f) to approve a plan of merger, consolidation or arrangement;
+
+(g) to make a declaration of solvency or to approve a liquidation plan; or
+
+(h) to make a determination that immediately.after a proposed Distribution the value of the
+Company’s assets will exceed its liabilities and the Company will be able to pay its debts
+as they fall due.
+
+Sub-Regulation 11.2(b) and (c) do not prevent a committee of directors, where authorised by
+the Resolution of Directors appointing such committee or by a subsequent Resolution of Directors,
+from appointing a sub-committee and delegating powers exercisable by the committee to the sub-
+committee.
+
+The meetings and proceedings of each committee of directors consisting of 2 or more directors shall
+be governed mutatis mutandis by the provisions of the Articles regulating the proceedings of
+directors so far as the same are not superseded by any provisions in the Resolution of Directors
+establishing the committee.
+
+Where the directors delegate their powers to a committee of directors they remain responsible for
+the exercise of that power by the committee, unless they believed on reasonable grounds at all times
+before the exercise of the power that the committee would exercise the power in conformity with
+the duties imposed on directors of the Company under the Act.
+
+OFFICERS AND AGENTS
+
+The Company may by Resolution of Directors appoint officers of the Company at such times as may
+be considered necessary or expedient. Such officers may consist of a Chairman of the Board of
+Directors, a president and one or more vice-presidents, secretaries and treasurers and such other
+
+14
+12.2
+
+12.3
+
+12.4
+
+12.5
+
+12.6
+
+12.7
+
+12.8
+
+officers as may from time to time be considered necessary or expedient. Any number of offices may
+be held by the same person.
+
+The officers shall perform such duties as are prescribed at the time of their appointment subject to
+any modification in such duties as may be prescribed thereafter by Resolution of Directors. In the
+absence of any specific prescription of duties it shall be the responsibility of the Chairman of the
+Board to preside at meetings of directors and Shareholders, the president to manage the day to day
+affairs of the Company, the vice-presidents to act in order of seniority in the absence of the
+president but otherwise to perform such duties as may be delegated to them by the president, the
+secretaries to maintain the register of members, minute books and records (other than financial
+records) of the Company and to ensure compliance with all procedural requirements imposed on the
+Company by applicable law, and the treasurer to be responsible for the financial affairs of the
+Company.
+
+The emoluments of all officers shall be fixed by Resolution of Directors.
+
+The officers of the Company shall hold office until their successors are duly appointed, but any
+officer elected or appointed by the directors may be removed at any time, with or without cause, by
+Resolution of Directors. Any vacancy occurring in any office of the Company may be filled by
+Resolution of Directors.
+
+The directors may, by Resolution of Directors, appoint any person, including a person who is a
+director, to be an agent of the Company.
+
+An agent of the Company shall have such powers and authority of the directors, including the power
+and authority to affix the Seal, as-are set forthin the Articles or in the Resolution of Directors
+appointing the agent, except.that no agent has any power or authority with respect to the following:
+
+(a) to amend the Memorandum or the Articles;
+
+(b) to change the registered office or agent;
+
+(c) to designate committees of directors;
+
+(d) to delegate powers to a committee of directors;
+
+(e) to appoint or remove directors;
+
+(f) to appoint or remove an agent;
+
+(g) to fix emoluments of directors;
+
+(h) to approve a plan of merger, consolidation or arrangement;
+
+(i) to make a declaration of solvency or to approve a liquidation plan;
+
+(Gj) to make a determination that immediately after a proposed Distribution the value of the
+
+Company’s assets will exceed its liabilities and the Company will be able to pay its debts
+as they fall due; or
+
+(k) to authorise the Company to continue as a company incorporated under the laws of a
+jurisdiction outside the British Virgin Islands.
+
+The Resolution of Directors appointing an agent may authorise the agent to appoint one or
+more substitutes or delegates to exercise some or all of the powers conferred on the agent by the
+
+Company.
+
+The directors may remove an agent appointed by the Company and may revoke or vary a power
+conferred on him.
+
+15
+13
+
+13.1
+
+13.2
+
+13.3
+
+13.4
+
+CONFLICT OF INTERESTS
+
+A Conflicted Director of the Company shall, forthwith after becoming aware of a Relevant
+Situation, disclose the Relevant Situation to all other directors of the Company. Subject to the Act
+and the Listing Rules, the directors may authorise any Relevant Situation (including without
+limitation, the continuing performance by the Conflicted Director of his duties and the acceptance
+of or continuing in any office, employment or position in addition to that of his office as a Director)
+on such terms and subject to such conditions and/or limitations as the directors may, in their
+absolute discretion determine and, subject to compliance with the Act and the Listing Rules, the
+Conflicted Director shall not, by reason of his office be accountable to the Company for any benefit
+which he derives from such Relevant Situation and no such Relevant Situation shall be liable to be
+avoided on the grounds of any such interest or benefit.
+
+For the purposes of Sub-Regulation 13.1, a disclosure to all other directors to the effect that a director
+is a member, director or officer of another named entity or has a fiduciary relationship with respect
+to the entity or a named individual and is to be regarded as interested in any transaction which may,
+after the date of the entry into the transaction or disclosure of the interest, be entered into with that
+entity or individual, is a sufficient disclosure of interest in relation to that transaction.
+
+Any authorisation under Sub-Regulation 13.1 shall be effective only if:
+
+(a) any requirement as to the quorum at_any meeting of the directors at which the matter is
+considered is met without,counting either the Conflicted Director or any other interested
+director; and
+
+(b) the matter or situation-was agreed’to. and any relevant resolution was passed without
+counting the votes-of the Conflicted Director and without counting the votes of any other
+interested director (or such matter or situation would have been so agreed and such
+relevant resolution would have been so passed if their votes had not been counted); and
+
+(c) the Conflicted Director has disclosed. in writing all material particulars of the matter,
+office, employment.or position which relates to the Relevant Situation which could
+reasonably be expected to influence the decision of the directors as to whether to authorise
+such matter, office, employment or position which relates to the Relevant Situation and the
+continuing performance of the Conflicted Director of his duties and/or the terms of such
+authorisation.
+
+Save as authorised under this Sub-Regulation 13.4, a director shall not vote on or be counted in
+the quorum in relation to any Resolution of Directors or of a committee of the directors concerning
+any transaction or arrangement with the Company in which he has an interest which may
+reasonably be regarded as likely to give rise to a conflict of interest, unless the resolution relates to
+one of the matters set out in the following sub-paragraphs in which case (subject to the terms of any
+authorisation granted pursuant to Sub-Regulation 13.1) he shall be entitled to vote and be counted
+in the quorum:
+
+(a) the giving to him of any guarantee, security or indemnity in respect of money lent or
+obligations incurred by him at the request of or for the benefit of the Company or any of its
+subsidiary undertakings;
+
+(b) the giving to a third party of any guarantee, security or indemnity in respect of a debt or
+obligation of the Company or any of its subsidiary undertakings for which he himself has
+assumed responsibility in whole or in part either alone or jointly with others, under a
+guarantee or indemnity or by the giving of security;
+
+(c) where the Company or any of its subsidiary undertakings is offering securities in which
+
+offer the director is or may be entitled to participate as a holder of securities or in the
+underwriting or sub-underwriting of which the director is to participate;
+
+16
+13.5
+
+13.6
+
+13.7
+
+14
+
+14.1
+
+(d) relating to another company in which he and any persons connected with him, do not, to
+his knowledge, hold an interest in shares representing 1% or more of either any class of the
+equity share capital, or the voting rights, in such company;
+
+(e) relating to an arrangement for the benefit of the employees of the Company or any of its
+subsidiary undertakings which does not award him any privilege or benefit not generally
+awarded to the employees to whom such arrangement relates;
+
+(f) concerning insurance which the Company proposes to maintain or purchase for the benefit
+of directors or for the benefit of persons including directors;
+
+(g) the funding of expenditure by one or more directors in defending proceedings against him or
+them or doing anything to enable such director(s) to avoid incurring such expenditure
+provided that such funding is consistent with, or no more beneficial to him than the provisions
+of these Articles (and provided always such funding is permitted pursuant to the provisions of
+the Act); or
+
+(h) the giving of an indemnity or indemnities in favour of one or more directors which is/are
+consistent with, or no more beneficial to him than any such indemnities provided pursuant
+these Articles (and provided always such indemnities are permitted pursuant to the
+provisions of the Act).
+
+A director shall not vote or be counted in the quorum on any Resolution of Directors or committee of
+the board concerning his own appointment (including fixing or varying the terms of his appointment
+or its termination) as the holder of any office or place of profit with the Company or any company in
+which the Company is interested. Where proposals are under consideration concerning the
+appointment (including fixing or varying theterms of appointment or termination) of two or more
+directors to offices or places of profit with the Company or any company in which the Company is
+interested, such proposals may be divided and a separate resolution.considered in relation to each
+director. In such case, each of the directors concerned (if not otherwise debarred from voting under
+these Articles) shall be entitled to vote (and be counted in the quorum) in respect of each resolution
+except that concerning his owa appointment.
+
+If any question arises at any meeting of the directors or any committee of the directors as to
+whether an interest of a director (other than the Chairman's interest) shall reasonably be regarded as
+likely to give rise to a conflict of interest or as to the entitlement of any director (other than the
+Chairman) to vote or be counted ina quorum and such question is not resolved by his voluntarily
+agreeing to abstain from voting or being counted in the quorum such question (unless the director
+concermed is the Chairman in which case Sub-Regulation 13.7 shall apply) shall before the
+conclusion of the meeting be referred to the Chairman of the meeting. The Chairman's ruling in
+relation to the director concerned shall be final and conclusive except in a case where the nature or
+extent of the interest of the director has not been fairly disclosed.
+
+If any question arises at any meeting of the directors or any committee of the directors as to
+whether an interest of the Chairman shall reasonably be regarded as likely to give rise to a conflict
+of interest or as to the entitlement of the Chairman to vote or be counted in a quorum and such
+question is not resolved by his voluntarily agreeing to abstain from voting or being counted in the
+quorum, such question shall before the conclusion of the meeting be decided by Resolution of
+Directors or committee members present at the meeting (excluding the Chairman) whose majority
+vote shall be final and conclusive except in a case where the nature or extent of the interest of the
+director has not been fairly disclosed.
+
+INDEMNIFICATION
+
+Subject to the limitations hereinafter provided, the Company shall indemnify against all expenses,
+including legal fees, and against all judgments, fines and amounts paid in settlement and reasonably
+incurred in connection with legal, administrative or investigative proceedings, any person who:
+
+(a) is Or was a party or is threatened to be made a party to any threatened, pending or
+completed proceedings, whether civil, criminal, administrative or investigative, by reason
+of the fact that the person is or was a director of the Company; or
+
+17
+14.2
+
+14.3
+
+14.4
+
+14.5
+
+14.6
+
+14.7
+
+14.8
+
+14.9
+
+14.10
+
+15
+
+15.1
+
+(b) is or was, at the request of the Company, serving as a director of, or in any other capacity
+is or was acting for, another body corporate or a partnership, joint venture, trust or other
+enterprise.
+
+The indemnity in Sub-Regulation 14.1 only applies if the person acted honestly and in good faith
+with a view to the best interests of the Company and, in the case of criminal proceedings, the
+person had no reasonable cause to believe that their conduct was unlawful.
+
+For the purposes of Sub-Regulation 14.2, a director acts in the best interests of the Company if he
+acts in the best interests of:
+
+(a) the Company’s holding company; or
+(b) a Shareholder or Shareholders,
+in either case, in the circumstances specified in Sub-Regulation 9.3 or the Act, as the case may be.
+
+The decision of the directors as to whether the person acted honestly and in good faith and with a
+view to the best interests of the Company and as to whether the person had no reasonable cause to
+believe that his conduct was unlawful is, in the absence of fraud, sufficient for the purposes of the
+Articles, unless a question of law is involved.
+
+The termination of any proceedings by,any judgment, order, settlement, conviction or the entering
+of a nolle prosequi does not, by itself, create a presumption that the person did not act honestly and
+in good faith and with a view to.the best.interests of the Company or that the person had reasonable
+cause to believe that his conduct was unlawful.
+
+Expenses, including legal fees, incurred by a director in defending any legal, administrative
+or investigative proceedings may be paid by the Company in advance of the final disposition of
+such proceedings upon receipt of an undertaking by or on behalf of the director to repay the amount
+if it shall ultimately be determined that the director is not entitled to be indemnified by the
+Company in accordance with Sub-Regulation 14.1.
+
+Expenses, including legal fees, incurred by a former director in defending any legal, administrative
+or investigative proceedings may be paid by the Company in advance of the final disposition of
+such proceedings upon receipt of an undertaking by or on behalf of the former director to repay the
+amount if it shall ultimately be determined that the former.director is not entitled to be indemnified
+by the Company in accordance with Sub-Regulation 14.1 and upon such terms and conditions, if
+any, as the Company deems appropriate.
+
+The indemnification and advancement of expenses provided by, or granted pursuant to, this section is
+not exclusive of any other rights to which the person seeking indemnification or advancement of
+expenses may be entitled under any agreement, Resolution of Shareholders, resolution of
+disinterested directors or otherwise, both as acting in the person’s official capacity and as to acting
+in another capacity while serving as a director of the Company.
+
+If a person referred to in Sub-Regulation 14.1 has been successful in defence of any proceedings
+referred to in Sub-Regulation 14.1, the person is entitled to be indemnified against all expenses,
+including legal fees, and against all judgments, fines and amounts paid in settlement and reasonably
+incurred by the person in connection with the proceedings.
+
+The Company may purchase and maintain insurance in relation to any person who is or was a
+director, officer or liquidator of the Company, or who at the request of the Company is or was
+serving as a director, officer or liquidator of, or in any other capacity is or was acting for, another
+company or a partnership, joint venture, trust or other enterprise, against any liability asserted
+against the person and incurred by the person in that capacity, whether or not the Company has or
+would have had the power to indemnify the person against the liability as provided in the Articles.
+
+RECORDS
+
+The Company shall keep the following documents at the office of its registered agent:
+
+18
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+15.6
+
+16
+
+(a) the Memorandum and the Articles;
+
+(b) the register of members (as defined in Regulation 2.9), or a copy of the register of
+members;
+
+(c) the register of directors, or a copy of the register of directors; and
+
+(d) copies of all notices and other documents filed by the Company with the Registrar of
+
+Corporate Affairs in the previous 10 years.
+
+Until the directors determine otherwise by Resolution of Directors the Company shall keep the
+original register of members and original register of directors at the office of its registered agent.
+
+If the Company maintains only a copy of the register of members or a copy of the register of
+directors at the office of its registered agent, it shall:
+
+(a) within 15 days of any change in either register, notify the registered agent in writing of the
+change; and
+(b) provide the registered agent with a written record of the physical address of the place or
+
+places at which the original register of members or the original register of directors is kept.
+
+The Company shall keep the following records at the. office of its registered agent or at such other
+place or places, within or outside the British Virgin Islands,.as the directors may determine:
+
+(a) minutes of meetings and Resolutions.of Shareholders and classes of Shareholders;
+(b) minutes of meetings and Resolutions of Directors and committees of directors; and
+(c) an impression of the Seal.
+
+Where any original records referred to in this Regulation are maintained other than at the office of
+the registered agent of the Company, and the place at which the original records is changed, the
+Company shall provide the registered agent with the physical address of the new location of the
+records of the Company within 14 days of the change of location.
+
+The records kept by the Company. under this Regulation.shall be in written form or either wholly or
+partly as electronic records complying with. the requirements of the Electronic Transactions Act,
+2001 (No. 5 of 2001) as from time to time amended or re-enacted.
+
+REGISTER OF CHARGES
+
+The Company shall maintain at the office of its registered agent a register of charges in which there
+shall be entered the following particulars regarding each mortgage, charge and other encumbrance
+created by the Company:
+
+(a) the date of creation of the charge;
+
+(b) a short description of the liability secured by the charge;
+
+(c) a short description of the property charged;
+
+(d) the name and address of the trustee for the security or, if there is no such trustee, the name
+and address of the chargee;
+
+(e) unless the charge is a security to bearer, the name and address of the holder of the charge;
+and
+
+(f) details of any prohibition or restriction contained in the instrument creating the charge on
+the power of the Company to create any future charge ranking in priority to or equally with
+the charge.
+
+19
+17
+
+18
+
+18.1
+
+18.2
+
+18.3
+
+19
+
+19.1
+
+19.2
+
+19.3
+
+19.4
+
+19.5
+
+19.6
+
+19.7
+
+SEAL
+
+The Company shall have a Seal and may have more than one Seal and references herein to the Seal
+shall be references to every Seal which shall have been duly adopted by Resolution of Directors.
+The directors shall provide for the safe custody of the Seal and for an imprint thereof to be kept at
+the registered office. Except as otherwise expressly provided herein the Seal when affixed to any
+written instrument shall be witnessed and attested to by the signature of any one director or other
+person so authorised from time to time by Resolution of Directors. Such authorisation may be
+before or after the Seal is affixed, may be general or specific and may refer to any number of
+sealings. The directors may provide for a facsimile of the Seal and of the signature of any director
+or authorised person which may be reproduced by printing or other means on any instrument and it
+shall have the same force and validity as if the Seal had been affixed to such instrument and the
+same had been attested to as hereinbefore described.
+
+DISTRIBUTIONS
+
+The directors of the Company may, by Resolution of Directors, authorise a Distribution at a time and
+of an amount they think fit if they are satisfied, on reasonable grounds, that, immediately after the
+Distribution, the value of the Company’s assets will exceed its liabilities and the Company will be
+able to pay its debts as they fall due.
+
+Distributions may be paid in money, Shares, or other property.
+Notice of any Distribution that.may have been declared shall be given to each Shareholder as
+specified in Sub-Regulation 20.1 and all Distributions unclaimed for 3 years after having been
+
+declared may be forfeited by Resolution of Directors for the benefit of the Company.
+
+No Distributions shall bear-interest as against the Company and no Distribution shall be paid on
+Treasury Shares.
+
+ACCOUNTS AND AUDIT
+
+The Company shall keep records that are sufficient to show and explain the Company’s
+transactions and that will, at any time, enable the financial position of the Company to be
+determined with reasonable accuracy.
+
+The Company may by Ordinary Resolution call for the directors to prepare periodically and
+make available a profit and loss account and a balance sheet. The profit and loss account and
+balance sheet shall be drawn up so as to give respectively a true and fair view of the profit and loss
+of the Company for a financial period and a true and fair view of the assets and liabilities of the
+Company as at the end of a financial period.
+
+The Company may by Ordinary Resolution call for the accounts to be examined by auditors.
+
+The first auditors shall be appointed by Resolution of Directors; subsequent auditors shall be
+appointed by Ordinary Resolution or by Resolution of Directors.
+
+The auditors may be Shareholders, but no director or other officer shall be eligible to be an auditor
+of the Company during their continuance in office.
+
+The remuneration of the auditors of the Company:
+(a) may be fixed by Resolution of Directors; and
+
+(b) subject to the foregoing, shall be fixed by Resolution of Shareholders or in such manner as
+the Company may by Resolution of Shareholders determine.
+
+The auditors shall examine each profit and loss account and balance sheet required to be laid before
+
+a meeting of the Shareholders or otherwise given to Shareholders and shall state in a written report
+whether or not:
+
+20
+19.8
+
+19.9
+
+19.10
+
+20
+
+20.1
+
+20.2
+
+20.3
+
+21
+
+22
+
+23
+
+23.1
+
+(a) in their opinion the profit and loss account and balance sheet give a true and fair view
+respectively of the profit and loss for the period covered by the accounts, and of the assets
+and liabilities of the Company at the end of that period; and
+
+(b) all the information and explanations required by the auditors have been obtained.
+
+The report of the auditors shall be annexed to the accounts and shall be read at the meeting of
+Shareholders at which the accounts are laid before the Company or shall be otherwise given to
+the Shareholders.
+
+Every auditor of the Company shall have a right of access at all times to the books of account
+and vouchers of the Company, and shall be entitled to require from the directors and officers of the
+Company such information and explanations as he thinks necessary for the performance of the duties
+of the auditors.
+
+The auditors of the Company shall be entitled to receive notice of, and to attend any meetings of
+Shareholders at which the Company’s profit and loss account and balance sheet are to be presented.
+
+NOTICES
+
+Any notice, information or written statement to be given by the Company to Shareholders may be
+given by personal service or by mail addressed to each Shareholder at the address shown in the
+register of members.
+
+Any summons, notice, order; document, process, information or written statement to be served on
+the Company may be served-by leaving it, or by sending. it by registered mail addressed to the
+Company, at its registered office, or by leaving it with, or by sending it by registered mail to, the
+registered agent of the Company.
+
+Service of any summons;-notice, order, document, process, information or written statement to be
+served on the Company may be proved by showing that the summons, notice, order, document,
+process, information or written statement was delivered to the registered office or the registered
+agent of the Company or that it was mailed in such time as to admit to its being delivered to the
+
+registered office or the registered agent of the Company in the normal course of delivery within the
+period prescribed for service and was correctly addressed.and the postage was prepaid.
+
+VOLUNTARY LIQUIDATION
+
+The Company may by Ordinary Resolution or, subject to section 199(2) of the Act, by Resolution
+of Directors appoint a voluntary liquidator.
+
+CONTINUATION
+
+The Company may by Ordinary Resolution or by a Resolution of Directors continue as a company
+incorporated under the laws of a jurisdiction outside the British Virgin Islands in the manner
+provided under those laws.
+
+COMPLIANCE WITH THE LISTING RULES
+
+Upon Admission, the following clauses apply:
+
+(a) Notwithstanding anything contained in the Memorandum or Articles, if the Listing Rules
+prohibit an act being done, the act shall not be done.
+
+(b) Nothing contained in the Memorandum or Articles prevents an act being done that the
+Listing Rules require to be done.
+
+(c) If the Listing Rules require an act to be done or not to be done, authority is given for that
+act to be done or not to be done (as the case may be).
+
+21
+23.2
+
+24
+
+24.1
+
+24.2
+
+24.3
+
+24.4
+
+24.5
+
+24.6
+
+(d) If the Listing Rules require the Memorandum or Articles to contain a provision and it does
+not contain such a provision, the Memorandum or Articles is deemed to contain that
+
+provision.
+
+(e) If the Listing Rules require the Memorandum or Articles not to contain a provision and it
+contains such a provision, the Memorandum or Articles is deemed not to contain that
+provision.
+
+(f) If any provision of the Memorandum or Articles is or becomes inconsistent with the
+
+Listing Rules, the Memorandum or Articles is deemed not to contain that provision to the
+extent of the inconsistency.
+
+The Directors and/or the Shareholders shall take any steps that may from time to time be necessary
+under the laws of the British Virgin Islands to amend the Memorandum and/or Articles to give effect
+to Regulation 23.1.
+
+TAKEOVER PROVISIONS
+Except with the consent of the Board, when:
+
+(a) any person acquires, whether by a series of transactions over a period of time or not,
+Shares which (taken together with Shares held or acquired by persons acting in concert
+with him) carry 30% or more of the voting rights of the Company; or
+
+(b) any person who, together with persons acting in concert with him, holds not less than 30%
+but not more than.50% of the voting rights and such person, or any person acting in
+concert with him, acquires additional Shares which increase his percentage of the voting
+rights;
+
+such person (the “offeror’’) shall extend an offer on the basis set out in this Regulation, to the
+holders of all the issued shares in the Company.
+
+Any offer made under this Regulation must be conditional only upon the offeror having
+received acceptances in respect of Shares which together with Shares acquired or agreed to be
+acquired before or during the offer, will result.in the offeror and any person acting in concert with it
+holding Shares carrying more than 50% of the voting rights.
+
+No acquisition of Shares which would give:rise:to a requirement for any offer under this Regulation
+may be made or registered if the making or implementation of such offer would or might be
+dependent on the passing of a Resolution of Shareholders or upon any other conditions, consents or
+arrangements.
+
+Offers made under this Regulation must, in respect of each class of Share capital involved, be in cash
+or be accompanied by a cash alternative at not less than the highest price paid by the offeror or any
+person acting in concert with it for Shares of that class during the offer period and within 12 months
+prior to its commencement. The cash offer or the cash alternative must remain open after the offer
+has become or is declared unconditional as to acceptances for not less than 14 days after the date on
+which it would otherwise have expired.
+
+No nominee of an offeror or persons acting in concert with it may be appointed as a Director, nor may
+an offeror and persons acting in concert with it exercise the votes attaching to any Shares held in
+the Company until the offer document has been posted.
+
+Any offer required to be made pursuant to this Regulation shall be made on terms that would be
+required by the then current United Kingdom City Code on Takeovers and Mergers (the “City
+Code"), save to the extent that the board otherwise determines. In relation to any offer required to
+be made pursuant to this Regulation, any matter which under the City Code would fall to be
+determined by the Panel shall be determined by the Board in its absolute discretion or by such
+person appointed by the Board to make such determination.
+
+22
+24.7
+
+24.8
+
+24.9
+
+25
+
+25.1
+
+25.2
+
+25.3
+
+25.4
+
+Except with the consent of the Board, Shareholders shall comply with the requirements of the City
+Code, as may from time to time be published by the United Kingdom Panel on Takeovers and Mergers
+(the "Panel"), in relation to any dealings in any Shares of the Company and in relation to their dealings
+with the Company in relation to all matters. Any matter which under the City Code would fall to be
+determined by the Panel shall be determined by the Board in its absolute discretion or by such person
+appointed by the Board to make such determination. Any notice which under the City Code is required
+to be given to the Panel or any person (other than the Company) shall be given to the Company at its
+registered office.
+
+If at any time the Board is satisfied that any Shareholder having incurred an obligation under
+this Regulation to extend an offer to the holders of all the issued Shares shall have failed so to do,
+or that any Shareholders is in default of any other obligation imposed upon Shareholders pursuant
+to this Regulation, then the Board may, in its absolute discretion at any time thereafter by notice (a
+"direction notice") to such Shareholders and any other Shareholders acting in concert with such
+Shareholders (together the “defaulters’’) direct that:
+
+(a) in respect of the Shares held by the defaulters (the “default shares") the defaulters shall
+not be entitled to vote at a general meeting either personally or by proxy or to exercise any
+other right conferred by membership in relation to meetings of the Company;
+
+(b) except in a liquidation of the Company, no payment shall be made of any sums due from
+the Company on the default shares, whether in respect of capital or dividend or otherwise,
+and the Company shall not meet-any-liability to pay interest on any such payment when it
+is finally paid to the Shareholders;
+
+(c) no other distribution shall be made on the default shares. The Board may at any time give
+notice cancelling a direction notice.
+
+In constructing this Regulation, words and expressions used in or defined in the City Code shall
+bear the same meaning as-given by the City Code.
+
+DISCLOSURE OF INTEREST IN SHARES AND FAILURE TO DISCLOSE
+
+A person must notify the Company of the percentage of voting rights held if the percentage of
+voting rights which he holds directly as Shareholder (including as a holder of depositary interests
+representing ordinary Shares) or indirectly as a holder of interests in Shares or through his direct or
+indirect holding of Qualifying Financial Instruments (or a combination of such holdings):
+
+(a) reaches, exceeds or falls below 3 per cent and each 1 per cent threshold thereafter up to
+100 per cent (each a "Threshold"); or
+
+(b) reaches, exceeds or falls below a Threshold as a result of events changing the breakdown
+of voting rights and on the basis of information disclosed by the Company in accordance
+with Regulation 25.3,
+
+such notification to be made to the Company without delay and in any event before the end of the
+second business day on which the obligation arises.
+
+The Company shall, on receipt of a notice pursuant to Regulation 25.1, notify a Regulatory
+Information Service.
+
+At the end of each calendar month during which an increase or decrease has occurred, the Company
+must notify to a Regulatory Information Service for distribution to the public:
+
+(a) the total number of voting rights in respect of each class of Share which it issues; and
+(b) the total number of voting rights attaching to Shares of the Company which are held by it
+in treasury.
+
+In the event that the total number of voting rights in respect of any class of Shares issued by the
+Company increases or decreases by | per cent or more following completion of a transaction by the
+
+23
+25.5
+
+25.6
+
+25.7
+
+25.8
+
+25.9
+
+Company, then, notwithstanding Regulation 25.3, the Company must notify a Regulatory
+Information Service without delay.
+
+A notification given by (i) a person to the Company in accordance with Regulation 25.1 or (ii) the
+Company to a Regulatory Information Service in accordance with Regulations 25.2 to 25.4
+(inclusive), shall include the following information:
+
+(a) the resulting situation in terms of voting rights and the date on which the relevant
+Threshold was reached or crossed;
+
+(b) if applicable, the chain of controlled undertakings through which voting rights are
+effectively held;
+
+(c) so far as known, the identity of the Shareholder, even if that Shareholder is not entitled to
+exercise voting rights and of the person entitled to exercise voting rights on behalf of that
+Shareholder;
+
+(d) the price, amount and class of Shares concerned;
+
+(e) in the case of a holding of Qualifying Financial Instruments, the following information
+
+must also be disclosed:
+
+(f) for the Qualifying Financial Instruments with an exercise period, an indication of the date
+or time period where Shares will or can be acquired, if applicable;
+
+(g) the date of maturity or expiration of the Qualifying Financial Instruments;
+(h) the identity of the holder;
+(i) the name of the underlying company; and
+
+oD) the detailed nature of the Qualifying Financial Instruments, including full details of the
+exposure to Shares; and
+
+(k) any other information required by the Company.
+
+If the Company determines that the person upon whom a notification obligation has occurred
+pursuant to Regulation 25.1 has not notified the Company as required, the Company shall have the
+right, but not the obligation, to serve the person in default a direction notice in accordance with
+Regulation 25.12.
+
+The directors shall keep a register for the purposes of Regulations 25.1 to 25.6 (inclusive) (in this
+Regulation, hereafter referred to as the “Register of Substantial Interests”) and shall procure that,
+whenever the Company receives information from a person in consequence of the fulfilment of an
+obligation imposed on him by Regulation 25.1, that information is within three business days
+thereafter written up in the Register of Substantial Interests against that person's name, together
+with the date of the inscription.
+
+The Register of Substantial Interests shall be kept at the registered office of the Company or at any other
+place determined by the Directors.
+
+For the purposes of interpreting Regulations 25.1 to 25.8 (inclusive):
+
+(a) a person's percentage interest in voting rights is to be calculated on the basis of all the
+Shares to which voting rights are attached even if the exercise of such rights is suspended.
+The number of voting rights to be considered when calculating whether a threshold has
+been reached, exceeded or fallen below is the number of voting rights in existence
+according to the Company's most recent disclosure made in accordance with Regulations
+25.3 or 25.4;
+
+24
+25.10
+
+25.11
+
+(b)
+
+(c)
+
+(d)
+
+"Qualifying Financial Instruments" means transferable securities and options, futures,
+swaps, forward rate agreements and any other derivative contracts provided that they result
+in an entitlement to acquire, on the holder's own initiative alone, under a formal agreement,
+Shares to which voting rights are attached, already issued by the Company, or other
+financial instruments giving the holder a long position on the economic performance of
+Shares or otherwise having a "similar economic effect" to a Qualifying Financial Instrument
+within the meaning of Rule 5 of the UK Financial Conduct Authority's Disclosure and
+Transparency Rules ("DTR 5");
+
+"Regulatory Information Service" means a service approved by the London Stock
+Exchange for the distribution to the public of announcements; and
+
+A person will be treated as being "indirectly" interested in Shares if he would be deemed
+so interested under DTR 5.
+
+For the purposes of Regulations 25.1 to 25.8 (inclusive), voting rights attaching to the following
+Shares are to be disregarded for the purposes of determining whether a person has a notification
+obligation:
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+Shares acquired for the sole purpose of clearing and settlement within a settlement cycle
+not exceeding the period beginning with the transaction and ending at the close of the third
+trading day following the day of the execution of the transaction (irrespective of whether
+the transaction is conducted:on-exchange);
+
+Shares held by a custodian (or nominee) in its custodian (or nominee) capacity (whether
+operating from an establishment in.the._UK or elsewhere) provided such a person can only
+exercise the voting rights attached to such Shares under instructions given in writing or by
+electronic means;
+
+Shares held by-a market maker acting in that capacity subject to the percentage of such
+Shares not being equal to or in excess of 10 percent;
+
+Shares held or Shares underlying financial instruments to the extent that such financial
+instruments are held by a credit institution or investment firm provided that:
+
+(i) the Shares, or financial instruments, are held within the trading book of the credit
+institution or investment firm;
+
+(i1) the voting rights attached to such Shares do not exceed 5 percent; and
+
+(ili) the credit institution, or investment firm, ensures that the voting rights attached to
+Shares in, or related to financial instruments in, the trading book are not exercised
+or otherwise used to intervene in the management of the Company;
+
+Shares held by a collateral taker under a collateral transaction which involves the outright
+
+transfer of securities provided the collateral taker does not declare any intention of
+
+exercising (and does not exercise) the voting rights attaching to such Shares; and
+
+Shares acquired by a borrower under a stock lending agreement provided that:
+
+(i) such Shares (or equivalent stock) are on-lent or otherwise disposed of by the
+borrower by not later than close of business on the next trading day; and
+
+(ii) the borrower does not declare any intention of exercising (and does not exercise) the
+voting rights attaching to the Shares.
+
+Regulations 25.11 to 25.17 apply where the Company gives to a Shareholder or to any person
+appearing to be interested in a Share a notice requiring any of the following information (a
+"Disclosure Notice"):
+
+25
+25.12
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+confirmation as to whether such person is or was, at any time during the three years
+immediately preceding the date on which the notice is issued (the "Three Year Period"),
+interested in Shares comprised in the Company's share capital;
+
+if he is or was so interested, particulars of his own past or present interest in Shares
+comprised in the share capital of the Company held by him at any time during the Three
+Year Period;
+
+if he is presently interested in Shares comprised in the Company's share capital and any
+other interest in the Shares persists (or in any case where another interest in the Shares
+subsisted during the Three Year Period at any time when his own interest subsisted), such
+particulars (so far as lies within his knowledge) with respect to that other interest as may
+be required by the disclosure notice; and/or
+
+if he was interested in Shares comprised in the Company's share capital during the Three
+Year Period but is no longer interested, particulars (so far as lies within his knowledge) of
+the identity of the person who had that interest immediately upon him ceasing to hold it.
+
+If a disclosure notice is given by the Company to a person appearing to be interested in any Share, a
+copy shall at the same time be given to the holding Shareholder, but the accidental omission to do
+so or the non-receipt of the copy by the Shareholder shall not prejudice the operation of the
+provisions of Regulations 25.1 to 25.17.
+
+If at any time the Board is satisfied that any Shareholder, or any other person appearing to be
+interested in Shares held by such Shareholder, has been duly served with a disclosure notice and is
+in default for the prescribed period in supplying to the Company the information thereby required,
+or, in purported compliance with such a notice, has made a statement which is false or inadequate
+in a material particular, then the Board may, in its absolute discretion at any time thereafter by
+notice (a "direction notice") to such Shareholder direct that:
+
+(a)
+
+(b)
+
+in respect of the Shares in relation;to: which the default-occurred (the "Default Shares")
+the Shareholder shall not be entitled to vote at a Annual General Meeting either personally
+or by proxy or to exercise any other right conferred by membership in relation to meetings
+of the Company;
+
+where the Default Shares represent at least 1/4 per cent. of the total number of Shares of
+the class concerned less any Shares of that class/held in treasury by the Company, then the
+direction notice may additionally direct that:
+
+(i) except in a liquidation of the Company, no payment shall be made of any sums
+due from the Company on the Default Shares, whether in respect of dividend or
+otherwise;
+
+(11) no other distribution shall be made on the Default Shares;
+
+(ili) no transfer of any of the Shares held by such Shareholder shall be registered
+unless:
+
+(A) the Shareholder is not himself in default as regards supplying the
+information requested and the transfer when presented for registration is
+accompanied by a certificate by the Shareholder in such form as the Board
+may in its absolute discretion require to the effect that after due and careful
+enquiry the Shareholder is satisfied that no person in default as regards
+supplying such information is interested in any of the Shares the subject of
+the transfer; or
+
+(B) the transfer is an approved transfer.
+
+The Company shall send to each other person appearing to be interested in the Shares the subject of
+any direction notice a copy of the notice, but the failure or omission by the Company to do so shall
+not invalidate such notice.
+
+26
+25.13 Any direction notice shall cease to have effect:-
+
+25.14
+
+25.15
+
+(a)
+
+(b)
+
+in relation to any Shares which are transferred by such Shareholder by means of an
+approved transfer; or
+
+when the Board is satisfied that such Shareholder and any other person appearing to be
+interested in Shares held by such Shareholder, has given to the Company the information
+required by the relevant notice.
+
+The Board may at any time give notice cancelling a direction notice.
+
+For the purposes of Regulations 25.11 to 25.14:-
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+a person shall be treated as appearing to be interested in any Shares if the Shareholder
+holding such Shares has given to the Company a notification which either (i) names such
+person as being so interested or (ii) fails to establish the identities of all those interested in
+the Shares and (after taking into account any such notification and any other relevant
+information) the Company knows or has reasonable cause to believe that the person in
+question is or may be interested in the Shares;
+
+the prescribed period is 14 days from the date of service of the said notice unless the
+Default Shares represent at least 1/4 per cent. of the total number of Shares of the class
+concerned less any Shares of that class held in treasury by the Company, when the
+prescribed period is 14 days from that date;
+
+a transfer of Shares.is an-approved transfer if but only if:
+
+(i) it is a transfer of Shares to an offer or by way or in pursuance of acceptance of a
+takeover offer, meaning an offer to acquire all the Shares, or all the Shares of any
+class or classes in the Company (other than Shares which at the date of the offer
+are already held by the offeror), being an offer on terms which are the same in
+relation to all the Shares to which the offer relates or, where those Shares include
+Shares of different classes, in relation to all the Shares of each class; or
+
+(i1) the Board is satisfied that the transfer is made pursuant to a sale of the whole of
+the beneficial ownership of the Shares the subject of the transfer to a party
+unconnected with the Shareholder and with other persons appearing to be
+interested in such Shares;
+
+(ili) the transfer results from a sale made through a Recognised Investment Exchange
+as defined in the Act or the Securities Regulations or any other investment
+exchange on which the Company's Shares are normally traded including the Stock
+Exchanges; or
+
+(iv) the transfer is made by way of a Relevant System; and
+
+for the purposes of Regulation 25.11 to 25.14 a person will be treated as having an
+“interest” in Shares if:
+
+(i) he owns them;
+
+(11) he has the right (whether conditional or absolute) to exercise or direct the exercise
+of the voting rights attaching to them or has general control of them;
+
+(ii1) by virtue of any agreement to purchase, option or derivative he has the right or
+option to acquire them or call for their delivery; or he is under an obligation to
+take delivery of them, whether the right, option or obligation is conditional or
+absolute;
+
+27
+25.16
+
+25.17
+
+26
+
+26.1
+
+26.2
+
+(iv) he is party to any derivative whose value is determined by reference to their price
+and which results, or may result, in his having a long position in them; or
+
+(v) he has received an irrevocable commitment in respect of them;
+
+If any dividend or other distribution is withheld under Regulation 25.12, the Shareholder shall be
+entitled to receive it as soon as practicable after the restrictions contained in Regulation 25.12 cease
+
+to apply.
+
+If, while any of the restrictions referred to above apply to a Share, another Share is allotted as of
+right pursuant to the rights attached to such Share, the same restrictions shall apply to that other
+Share as if it were a Default Share. For this purpose, Shares which the Company allots, or procures
+to be offered, pro rata (disregarding fractional entitlements) to holders of Shares of the same class
+as the Default Share shall be treated as Shares allotted as of right of existing Shares from the date
+on which the allotment is unconditional or, in the case of Shares so offered, the date of the
+acceptance of the offer.
+
+WARRANTS AND OPTIONS
+Subject to the Act and the Listing Rules, the Company has the ability, by Resolution of Directors,
+to approve the issuance and cancellation of warrants, options and other similar instruments
+
+(whether in certified or uncertified form) from time to time.
+
+Where any warrants or options are withdrawn or otherwise cancelled by the Company, the Directors
+shall take such steps as are necessary to effect the cancellation of such warrants or options.
+
+We, Equity Trust (BVI) Limited, of Palm Grove House, P.O. Box 438, Road Town, Tortola,
+British Virgin Islands for the purpose of incorporating a BVI Business Company under the laws of
+
+the British Virgin Islands hereby sign this Memorandum of Association the 23™ day of June 2011:
+
+Incorporator
+
+  
+ 
+
+porised Signatory
+quity Trust (BVI) Limited
+
+28
